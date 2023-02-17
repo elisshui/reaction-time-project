@@ -1,2 +1,2 @@
-# reaction-time-project
-MIE237 Reaction Time Experiement
+# MIE237 Reaction Time Experiement
+Files for the reaction time experiment.
